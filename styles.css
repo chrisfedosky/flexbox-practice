@@ -1,0 +1,30 @@
+
+body {
+    background-color: hsla(0, 25%, 22%, 1);
+}
+.box1 {
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+}
+.box2 {
+    background-color: hsla(225, 50%, 65%, 1);
+    height: 175px;
+    width: 140px;
+
+}
+.box3 {
+    background-color: hsla(67, 50%, 50%, .7);
+    height: 75px;
+    width: 210px;
+}
+.box4 {
+    background-color: hsla(12, 35%, 62%, 1);
+    height: 194px;
+    width: 115px;
+}
+.box5 {
+    background-color: hsla(300, 30%, 75%, .5);
+    height: 200px;
+    width: 195px;
+}
